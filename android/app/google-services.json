@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "636757632342",
+    "project_id": "loginapp-3639e",
+    "storage_bucket": "loginapp-3639e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636757632342:android:8537de1f73086b776322f7",
+        "android_client_info": {
+          "package_name": "com.example.flexyatra_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu7gtTxOWJG_K98C_-wl3uB2lJlkzyHYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636757632342:android:2365fe02bc87049e6322f7",
+        "android_client_info": {
+          "package_name": "com.flexyatra.flexyatra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu7gtTxOWJG_K98C_-wl3uB2lJlkzyHYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
