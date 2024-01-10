@@ -20,14 +20,14 @@ samples, guidance on mobile development, and a full API reference.
 # FlexYatraApp
 To run the application you need to follow the steps. if u have already done some steps please ingnore and follow other steps.
 
-Step 1 : Get Android studio or VS code IDE.
-Step 2 : Install Flutter and Dart sdk from the official site. (Now you are ready to go)
+- Step 1 : Get Android studio or VS code IDE.
+- Step 2 : Install Flutter and Dart sdk from the official site. (Now you are ready to go)
 To get Plugins manually through GUI
-Step 3 : Go to dev-lib click on the pubspec.yaml and run pub get or upgrade package.
-Step 4:  GO to pubspec.yaml of the root folder and run pub get or upgrade package.
-Step 5: Now all set.. Run the main.dart file through the (Play icon at top) or do configuration for flutter/dart conpiler. 
+- Step 3 : Go to dev-lib click on the pubspec.yaml and run pub get or upgrade package.
+- Step 4:  GO to pubspec.yaml of the root folder and run pub get or upgrade package.
+- Step 5: Now all set.. Run the main.dart file through the (Play icon at top) or do configuration for flutter/dart conpiler. 
 To get plugins through terminal
-  C:(root directory of app) >>>  flutter pub get      //To get all packaages
-  C: >> Flutter run                       //To run the program
+-  C:(root directory of app) >>>  flutter pub get      //To get all packaages
+- C: >> Flutter run                       //To run the program
    
 
